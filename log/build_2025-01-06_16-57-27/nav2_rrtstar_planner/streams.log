@@ -1,0 +1,35 @@
+[0.015s] Invoking command in '/home/karol/turtlebot3_ws/build/nav2_rrtstar_planner': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --build /home/karol/turtlebot3_ws/build/nav2_rrtstar_planner -- -j22 -l22
+[0.056s] [35m[1mConsolidate compiler generated dependencies of target nav2_rrtstar_planner_plugin[0m
+[0.076s] [ 50%] [32mBuilding CXX object CMakeFiles/nav2_rrtstar_planner_plugin.dir/src/rrtstar_planner.cpp.o[0m
+[3.344s] [100%] [32m[1mLinking CXX shared library libnav2_rrtstar_planner_plugin.so[0m
+[3.525s] [100%] Built target nav2_rrtstar_planner_plugin
+[3.588s] Invoked command in '/home/karol/turtlebot3_ws/build/nav2_rrtstar_planner' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --build /home/karol/turtlebot3_ws/build/nav2_rrtstar_planner -- -j22 -l22
+[3.590s] Invoking command in '/home/karol/turtlebot3_ws/build/nav2_rrtstar_planner': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --install /home/karol/turtlebot3_ws/build/nav2_rrtstar_planner
+[3.596s] -- Install configuration: ""
+[3.596s] -- Execute custom install script
+[3.596s] -- Up-to-date symlink: /home/karol/turtlebot3_ws/install/nav2_rrtstar_planner/share/nav2_rrtstar_planner//global_planner_plugin.xml
+[3.596s] -- Up-to-date symlink: /home/karol/turtlebot3_ws/install/nav2_rrtstar_planner/lib/libnav2_rrtstar_planner_plugin.so
+[3.596s] -- Up-to-date symlink: /home/karol/turtlebot3_ws/install/nav2_rrtstar_planner/include//nav2_rrtstar_planner/rrtstar_planner.hpp
+[3.596s] -- Up-to-date symlink: /home/karol/turtlebot3_ws/install/nav2_rrtstar_planner/share/nav2_rrtstar_planner/global_planner_plugin.xml
+[3.596s] -- Up-to-date symlink: /home/karol/turtlebot3_ws/install/nav2_rrtstar_planner/share/nav2_rrtstar_planner/environment/library_path.sh
+[3.597s] -- Up-to-date symlink: /home/karol/turtlebot3_ws/install/nav2_rrtstar_planner/share/nav2_rrtstar_planner/environment/library_path.dsv
+[3.597s] -- Up-to-date symlink: /home/karol/turtlebot3_ws/install/nav2_rrtstar_planner/share/ament_index/resource_index/package_run_dependencies/nav2_rrtstar_planner
+[3.597s] -- Up-to-date symlink: /home/karol/turtlebot3_ws/install/nav2_rrtstar_planner/share/ament_index/resource_index/parent_prefix_path/nav2_rrtstar_planner
+[3.597s] -- Up-to-date symlink: /home/karol/turtlebot3_ws/install/nav2_rrtstar_planner/share/nav2_rrtstar_planner/environment/ament_prefix_path.sh
+[3.597s] -- Up-to-date symlink: /home/karol/turtlebot3_ws/install/nav2_rrtstar_planner/share/nav2_rrtstar_planner/environment/ament_prefix_path.dsv
+[3.597s] -- Up-to-date symlink: /home/karol/turtlebot3_ws/install/nav2_rrtstar_planner/share/nav2_rrtstar_planner/environment/path.sh
+[3.598s] -- Up-to-date symlink: /home/karol/turtlebot3_ws/install/nav2_rrtstar_planner/share/nav2_rrtstar_planner/environment/path.dsv
+[3.598s] -- Up-to-date symlink: /home/karol/turtlebot3_ws/install/nav2_rrtstar_planner/share/nav2_rrtstar_planner/local_setup.bash
+[3.598s] -- Up-to-date symlink: /home/karol/turtlebot3_ws/install/nav2_rrtstar_planner/share/nav2_rrtstar_planner/local_setup.sh
+[3.598s] -- Up-to-date symlink: /home/karol/turtlebot3_ws/install/nav2_rrtstar_planner/share/nav2_rrtstar_planner/local_setup.zsh
+[3.598s] -- Up-to-date symlink: /home/karol/turtlebot3_ws/install/nav2_rrtstar_planner/share/nav2_rrtstar_planner/local_setup.dsv
+[3.598s] -- Symlinking: /home/karol/turtlebot3_ws/install/nav2_rrtstar_planner/share/nav2_rrtstar_planner/package.dsv
+[3.606s] -- Up-to-date symlink: /home/karol/turtlebot3_ws/install/nav2_rrtstar_planner/share/ament_index/resource_index/packages/nav2_rrtstar_planner
+[3.606s] -- Up-to-date symlink: /home/karol/turtlebot3_ws/install/nav2_rrtstar_planner/share/ament_index/resource_index/nav2_core__pluginlib__plugin/nav2_rrtstar_planner
+[3.606s] -- Up-to-date symlink: /home/karol/turtlebot3_ws/install/nav2_rrtstar_planner/share/nav2_rrtstar_planner/cmake/ament_cmake_export_include_directories-extras.cmake
+[3.606s] -- Up-to-date symlink: /home/karol/turtlebot3_ws/install/nav2_rrtstar_planner/share/nav2_rrtstar_planner/cmake/ament_cmake_export_libraries-extras.cmake
+[3.606s] -- Up-to-date symlink: /home/karol/turtlebot3_ws/install/nav2_rrtstar_planner/share/nav2_rrtstar_planner/cmake/ament_cmake_export_dependencies-extras.cmake
+[3.606s] -- Up-to-date symlink: /home/karol/turtlebot3_ws/install/nav2_rrtstar_planner/share/nav2_rrtstar_planner/cmake/nav2_rrtstar_plannerConfig.cmake
+[3.606s] -- Up-to-date symlink: /home/karol/turtlebot3_ws/install/nav2_rrtstar_planner/share/nav2_rrtstar_planner/cmake/nav2_rrtstar_plannerConfig-version.cmake
+[3.606s] -- Up-to-date symlink: /home/karol/turtlebot3_ws/install/nav2_rrtstar_planner/share/nav2_rrtstar_planner/package.xml
+[3.608s] Invoked command in '/home/karol/turtlebot3_ws/build/nav2_rrtstar_planner' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --install /home/karol/turtlebot3_ws/build/nav2_rrtstar_planner

@@ -1,0 +1,29 @@
+{
+  "configurations": [
+    {
+      "browse": {
+        "databaseFilename": "${default}",
+        "limitSymbolsToIncludedHeaders": false
+      },
+      "includePath": [
+        "/home/karol/turtlebot3_ws/install/turtlebot3_gazebo/include/**",
+        "/home/karol/turtlebot3_ws/install/turtlebot3_fake_node/include/**",
+        "/home/karol/ITB/URO/KRAI/nebula/nebula-ws/install/omnidirectional_controllers/include/**",
+        "/home/karol/ITB/URO/KRAI/nebula/nebula-ws/install/omni_wheel_controller/include/**",
+        "/home/karol/ITB/URO/KRAI/nebula/nebula-ws/install/nebula_localization/include/**",
+        "/home/karol/ITB/URO/KRAI/nebula/nebula-ws/install/nebula_firmware/include/**",
+        "/home/karol/ITB/URO/KRAI/nebula/nebula-ws/install/nebula_controller/include/**",
+        "/opt/ros/humble/include/**",
+        "/home/karol/turtlebot3_ws/src/turtlebot3_simulations/turtlebot3_fake_node/include/**",
+        "/home/karol/turtlebot3_ws/src/turtlebot3_simulations/turtlebot3_gazebo/include/**",
+        "/usr/include/**"
+      ],
+      "name": "ROS",
+      "intelliSenseMode": "gcc-x64",
+      "compilerPath": "/usr/bin/gcc",
+      "cStandard": "gnu11",
+      "cppStandard": "c++14"
+    }
+  ],
+  "version": 4
+}
